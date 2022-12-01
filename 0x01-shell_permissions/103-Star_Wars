@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt install telnet telnet telehack.com starwars
+telnet tower.blinkenlights.nl
