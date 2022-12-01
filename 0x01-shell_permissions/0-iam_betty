@@ -1,4 +1,4 @@
-#!bin/sbash
+#!/bin/bash
 su betty
 
 
