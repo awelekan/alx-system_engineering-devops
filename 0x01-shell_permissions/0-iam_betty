@@ -1,3 +1,4 @@
-#!bin/bash
-su
+#!bin/sbash
+su betty
+
 
